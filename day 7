@@ -1,0 +1,10 @@
+🔐 Day 7 – Ports & Protocols
+
+Today I learned about ports and protocols, which are fundamental concepts in computer networking.
+
+Protocols define the rules that devices follow to communicate with each other,
+while ports are numerical identifiers used to specify services running on a system (for example, HTTP on port 80 and HTTPS on port 443).
+
+Understanding ports and protocols helps in analyzing how data flows across networks and is an important foundation for cybersecurity and ethical hacking.
+
+📌 Part of the 100 Days of Ethical Hacking learning journey.
